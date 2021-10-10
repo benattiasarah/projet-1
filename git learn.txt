@@ -1,0 +1,11 @@
+//initialisation
+git init
+//move to staging index :
+git add esm-ficher
+
+//commit
+git commit -m "l msg li t7eb aalih"
+
+//
+git config --global user.name "name"
+git config --global user.email "email"
