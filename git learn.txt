@@ -2,10 +2,32 @@
 git init
 //move to staging index :
 git add esm-ficher
+git add .
 
 //commit
-git commit -m "l msg li t7eb aalih"
+git commit -m "l msg li t7eb aagitlih"
 
 //
 git config --global user.name "name"
 git config --global user.email "email"
+
+
+
+//l'état du projet
+git status 
+
+//nchouf les commit
+git log
+
+//nchouf les changements des ligne
+git log --oneline
+
+//nchouf les changements 
+git log --stat
+
+//nchouf les changements plus détaillées
+git log -p
+
+
+
+
